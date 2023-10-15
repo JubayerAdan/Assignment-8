@@ -1,0 +1,42 @@
+[
+  {
+    "id": "-NKCQKDNUII90IY7",
+    "title": "Introduction to React",
+    "thumbnail": "https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1461&q=80",
+    "author": "John Doe",
+    "authorImg": "https://images2.alphacoders.com/132/1323416.jpeg",
+    "readTime": 10,
+    "publishDate": "2023-09-14",
+    "description": "This is an introduction to React. Learn the basics of React, its components, and how to build web applications with it."
+  },
+  {
+    "id": "-H4G69RJHDPN3IZ3",
+    "title": "JavaScript Fundamentals",
+    "thumbnail": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+    "author": "Jane Smith",
+    "authorImg": "https://pbs.twimg.com/media/E10sIcaWYAQieDI.jpg",
+    "readTime": 15,
+    "publishDate": "2023-09-15",
+    "description": "Explore the fundamentals of JavaScript, including variables, functions, and data types. Get started with programming in JavaScript."
+  },
+  {
+    "id": "-09BL017EBV6JXA6",
+    "title": "Getting Started with Node.js",
+    "thumbnail": "https://images.unsplash.com/photo-1660054591552-3c888d8e5319?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1373&q=80",
+    "author": "Alice Johnson",
+    "authorImg": "https://wallpapers.com/images/hd/death-note-4k-r75689fdex44fs6s.jpg",
+    "readTime": 12,
+    "publishDate": "2023-09-16",
+    "description": "Get started with Node.js and build server-side applications. Learn about event-driven programming and asynchronous I/O."
+  },
+  {
+    "id": "-ZLRRQUJEJ4DDORT",
+    "title": "HTML and CSS Basics",
+    "thumbnail": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+    "author": "Bob Williams",
+    "authorImg": "https://images.alphacoders.com/127/1273999.jpg",
+    "readTime": 8,
+    "publishDate": "2023-09-17",
+    "description": "Learn the basics of HTML and CSS for web development. Create web pages, style them, and understand the structure of a web document."
+  }
+]

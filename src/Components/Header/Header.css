@@ -1,0 +1,10 @@
+.header {
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.profile {
+    height: 47px;
+    width: 47px;
+}

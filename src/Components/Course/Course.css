@@ -1,0 +1,28 @@
+@media (min-width: 992px) {
+  .col-lg-4 {
+    max-height: 500px;
+    width: 700px !important;
+  }
+}
+
+.readtime {
+  color: #6047ec;
+  background-color: rgba(96, 71, 236, 0.1);
+  display: flex;
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  text-align: center;
+  margin-left: 60.5rem;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 6px;
+  padding-right: -1px;
+  margin-bottom: 10px;
+  max-width: 400px;
+  white-space: nowrap;
+}
+
+.bt-container {
+  height: 500px;
+  overflow: auto;
+}

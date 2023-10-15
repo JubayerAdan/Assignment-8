@@ -1,0 +1,23 @@
+.author-img {
+  width: 45px;
+  height: 45px;
+}
+
+.bookmark-btn {
+  background-color: #fff !important;
+}
+
+.mr-btn {
+  color: blueviolet !important;
+}
+
+@media (prefers-color-scheme: light) {
+  button {
+    background-color: white;
+    text-decoration: underline;
+  }
+}
+
+.readTime {
+  margin-top: 16px;
+}
